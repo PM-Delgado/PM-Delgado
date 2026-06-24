@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/miguel-delgado-banner.gif" alt="Miguel Delgado animated koi cybercore banner" width="100%" />
+  <img src="./assets/koi-carp-cybercore.gif" alt="Miguel Delgado animated koi cybercore banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Miguel Delgado</h1>
