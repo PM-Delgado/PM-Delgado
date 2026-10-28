@@ -30,23 +30,23 @@ A full-stack/mobile prototype for a Portuguese football club, focused on match m
 
 `Flutter` · `React` · `TypeScript` · `FastAPI` · `PostgreSQL` · `Supabase`
 
-> Repository will be public soon.
+> This project is currently on hold and I'm still deciding if I want to finish it or not.
 
 ---
 
 ### What tools do I use?
 
 **Main focus**  
-`FastAPI` · `Flutter` · `React` · `TypeScript` · `Python` · `PostgreSQL` · `Supabase` · `SQLite` · `discord.py` · `REST APIs`
+`Python` · `Java` · `FastAPI` · `React` · `TypeScript` · `PostgreSQL` · `SQLite` · `REST APIs`
 
 **Engineering practice**  
 `pytest` · `Ruff` · `Pyright` · `GitHub Actions` · `Railway`
 
 **At work / automation**  
-`Oracle` · `SQL` · `Python` · `Shell scripting` · `Dify`
+`Oracle` · `SQL` · `Oracle APEX` · `Dify` · `Shell scripting` · `Google Cloud Platform`
 
 **Previous experience**  
-`Kotlin` · `Android` · `Java` · `Spring` · `Docker` · `Google Cloud Platform`
+`Kotlin` · `Android` · `Flutter` · `Spring` · `Docker`
 
 ---
 
