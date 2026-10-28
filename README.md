@@ -5,7 +5,7 @@
 <h1 align="center">Hey, I'm Miguel 👋</h1>
 
 <p align="center">
-  CS Master's graduate · Database Administrator · Building backend, mobile and web projects
+  CS Master's graduate · Database Administrator · Building full-stack, mobile and web projects
 </p>
 
 ---
@@ -14,16 +14,16 @@
 
 I work as a **Database Administrator**, mostly around Oracle databases, SQL, automation and internal tooling. Looking after production data every day shaped how I write software: schemas that migrate safely, history that can be audited and rebuilt, and tests around the parts that must not break.
 
-Outside of work, I build **backend, full-stack and mobile projects**, and I have been exploring **AI-assisted development**, LLMs, coding agents and developer workflows.
+Outside of work, I build **full-stack, back-end and mobile projects**, and I have been exploring **AI-assisted development**, LLMs, coding agents and developer workflows.
 
 ---
 
 ### What am I working on?
 
-**[Keep-Dreaming-Bot](https://github.com/PM-Delgado/Keep-Dreaming-Bot)**  
+**[Keep Dreaming Bot](https://github.com/PM-Delgado/Keep-Dreaming-Bot)**  
 The Discord bot of a community I'm part of, running 24/7 on Railway. It started as a joke command and now runs the server's League of Legends in-house games: lobbies and ready-checks, role-aware balanced teams, result reporting with admin corrections, and a rating that updates from confirmed results. Built the way I'd want a production service built: a versioned-migration SQLite schema, an audit trail, ratings that can be rebuilt from the stored games, and CI on every push.
 
-`Python` · `discord.py` · `asyncio` · `SQLite` · `OpenSkill` · `Riot API` · `pytest` · `GitHub Actions` · `Railway`
+`Python` · `discord.py` · `asyncio` · `SQLite` · `OpenSkill` · `Riot API` · `Railway`
 
 **Estrela da Amadora Digital Platform**  
 A full-stack/mobile prototype for a Portuguese football club, focused on match management, memberships, ticket flows and staff/fan workflows.
